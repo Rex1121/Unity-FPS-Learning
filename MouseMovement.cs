@@ -1,9 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MouseMovement : MonoBehaviour
 {
    
-public float mouseSensitivity = 500f; 
+public float mouseSensitivity = 300f; 
 
 float xRotation = 0f;
 float yRotation = 0f; 
